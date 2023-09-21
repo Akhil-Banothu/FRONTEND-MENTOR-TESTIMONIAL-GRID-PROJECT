@@ -1,0 +1,62 @@
+# Frontend Mentor - Testimonials grid section solution
+
+This is a solution to the [Testimonials grid section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+
+## Table of contents
+
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
+- [Author](#author)
+
+## Overview
+
+### The challenge
+
+Users should be able to:
+
+- View the optimal layout for the site depending on their device's screen size
+
+### Screenshot
+
+![](./testimonialGrid.jpg)
+
+Above is the screenshot of the project I completed.
+
+### Links
+
+- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+
+## My process
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- CSS Grid
+- Mobile-first workflow
+
+
+### What I learned
+
+I learned to flow of working with grid and how to provide columns and rows.
+
+I was able to work fluently with the grid components in the device mobile and desktop.
+
+I was able to learn that "gap" property in grid also plays a major role in the width of the column. So Please be aware of that.
+
+### Continued development
+
+Working with Grid and able to manipulate different elements within the grid and displaying in the proper manner is what I am looking forward to.
+
+## Author
+
+- Frontend Mentor - [@Akhil-Banothu](https://www.frontendmentor.io/profile/Akhil-Banothu)
+
